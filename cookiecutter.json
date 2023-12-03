@@ -1,0 +1,10 @@
+{
+    "repo_name": "john",
+    "project_name": "JohnDOeProject",
+	"model_filename":"iris_model",
+	"registered_name":"ONNXIrisModel",
+	"results_filename":"model_results",
+	"test_size":0.3,
+	"random_state":42,
+	"max_iter":200
+}
